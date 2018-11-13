@@ -1,5 +1,5 @@
-layout: post
-title: Dez Bryant faces 'tough rehabilitation' from costly season-ending injury
+layout:post
+title:Dez Bryant faces 'tough rehabilitation' from costly season-ending injury
 ---
 # to soon or to late
 ## dez bryant injury
