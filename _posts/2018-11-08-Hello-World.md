@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, This is Corey
+title: Hello, This is Chris
 ---
 
 # about-me-.md
