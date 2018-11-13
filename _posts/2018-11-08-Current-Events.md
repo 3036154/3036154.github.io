@@ -1,5 +1,5 @@
 layout: post
-title: 12 People killed
+title: Dez Bryant faces 'tough rehabilitation' from costly season-ending injury
 ---
 # to soon or to late
 ## dez bryant injury
