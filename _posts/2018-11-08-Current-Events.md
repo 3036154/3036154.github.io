@@ -1,8 +1,10 @@
-
-title: season-ending injury
 ---
-# Dez Bryant faces 'tough rehabilitation' from costly season-ending injury
+layout: post
 
+---
+## season ender 
+ is this it
+Dez Bryant faces 'tough rehabilitation' from costly season-ending injury
 
 When Dez Bryant suffered a torn Achilles on the last play of practice Friday, he lost his opportunity to play for a contender, reach a Super Bowl, and make himself even more valuable during free agency this winter -- all part of his grand plan when he signed with the New Orleans Saints.
 
